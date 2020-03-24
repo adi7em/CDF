@@ -1,9 +1,9 @@
 # ENVIRONEMNT SETUP
 1. Clone the git repo
-  $ git clone git@github.com:adi7em/CDF.git
-  
-  -> now go to project dir
-    $ cd CDF
+   $ git clone git@github.com:adi7em/CDF.git
+    
+   -> now go to project dir
+      $ cd CDF
     
 2. Installing Python 3 and venv
   -> check python version
@@ -37,7 +37,7 @@
    -> (sep) represents the separator in the output file. Default is tab, you change it to ',' for comma separated and         to '\s' for space separated
    -> (ext) represents the extenstion of image file
    
-   # All values have default values according to current configuration
+   **All values have default values according to current configuration**
    
 2. Run the script
   $ python main.py
